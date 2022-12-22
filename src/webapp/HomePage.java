@@ -9,4 +9,8 @@ public class HomePage {
     //More things
 
     //logo
+
+    // kako si
+
+    //add more things
 }
